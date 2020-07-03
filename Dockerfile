@@ -1,0 +1,1 @@
+FROM svnedge/app:latest
